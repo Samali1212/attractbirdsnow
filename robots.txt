@@ -1,0 +1,6 @@
+# robots.txt for https://attractbirdsnow.com/
+User-agent: *
+Allow: /
+
+# XML Sitemap Location for Google Search Console
+Sitemap: https://attractbirdsnow.com/sitemap.xml
