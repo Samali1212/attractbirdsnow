@@ -8,17 +8,17 @@
  */
 
 const ARTICLES = [
-    {
-        id: "how-to-attract-northern-cardinals",
-        title: "How to Attract Northern Cardinals to Your Yard: 5 Proven Steps",
-        category: "Species Guides",
-        excerpt: "Discover the best seeds, feeder styles, and native cover plants required to bring vibrant red cardinals to your backyard year-round.",
-        url: "/blog/how-to-attract-northern-cardinals.html",
-        image: "/blog/images/northern-cardinal.jpg",
-        date: "August 16, 2026",
-        readTime: "5 min read",
-        featured: true
-    },
+   {
+    id: "how-to-attract-northern-cardinals",
+    title: "How to Attract Northern Cardinals to Your Yard",
+    category: "Species Guides",
+    excerpt: "Discover the best high-oil seeds, sturdy platform feeders, fresh water sources, and dense shelter needed to attract brilliant red cardinals.",
+    url: "/blog/how-to-attract-northern-cardinals.html",
+    image: "/blog/images/northern-cardinal.jpg",
+    date: "August 16, 2026",
+    readTime: "5 min read",
+    featured: true
+},
     {
         id: "ultimate-hummingbird-nectar-guide",
         title: "The Ultimate Homemade Hummingbird Nectar Recipe & Feeder Guide",
